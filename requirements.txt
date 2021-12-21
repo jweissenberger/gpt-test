@@ -1,0 +1,4 @@
+huggingface
+torch
+jupyterlab
+ipywidgets
